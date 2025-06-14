@@ -1,0 +1,16 @@
+# virtual environment
+.venv/
+env/
+venv/
+# pytest cache
+.pytest_cache/
+# compiled python files
+__pycache__/
+*.py[cod]
+# allure results
+allure-results/
+# VS Code settings (если используешь)
+.vscode/
+# system files
+.DS_Store
+Thumbs.db
